@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": "84",
+    "product_name": "CHANA DAL 1000 GM (R1)",
+    "product_price": "90.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "CHANA DAL 1000 GM (R1)",
+    "special_price": "87.0561",
+    "newPrice": "87.0561",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "85",
+    "product_name": "CHANA DAL 1000 GM (R2)",
+    "product_price": "92.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "CHANA DAL 1000 GM (R2)",
+    "special_price": "88.9907",
+    "newPrice": "88.9907",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "86",
+    "product_name": "CHANA DAL 500 GM (R1)",
+    "product_price": "46.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "CHANA DAL 500 GM (R1)",
+    "special_price": "44.4953",
+    "newPrice": "44.4953",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "87",
+    "product_name": "CHANA DAL 500 GM (R2)",
+    "product_price": "47.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "CHANA DAL 500 GM (R2)",
+    "special_price": "45.4626",
+    "newPrice": "45.4626",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "159",
+    "product_name": "KABULI CHANA 1000 GM (R1)",
+    "product_price": "91.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KABULI CHANA 1000 GM (R1)",
+    "special_price": "88.0234",
+    "newPrice": "88.0234",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "160",
+    "product_name": "KABULI CHANA 1000 GM (R2)",
+    "product_price": "93.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KABULI CHANA 1000 GM (R2)",
+    "special_price": "89.9579",
+    "newPrice": "89.9579",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "161",
+    "product_name": "KABULI CHANA 500 GM (R1)",
+    "product_price": "46.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KABULI CHANA 500 GM (R1)",
+    "special_price": "44.4953",
+    "newPrice": "44.4953",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "162",
+    "product_name": "KABULI CHANA 500 GM (R2)",
+    "product_price": "47.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KABULI CHANA 500 GM (R2)",
+    "special_price": "45.4626",
+    "newPrice": "45.4626",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "165",
+    "product_name": "KALA CHANA 1000 GM (R1)",
+    "product_price": "85.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KALA CHANA 1000 GM (R1)",
+    "special_price": "82.2196",
+    "newPrice": "82.2196",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "166",
+    "product_name": "KALA CHANA 1000 GM (R2)",
+    "product_price": "87.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KALA CHANA 1000 GM (R2)",
+    "special_price": "84.1542",
+    "newPrice": "84.1542",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "167",
+    "product_name": "KALA CHANA 500 GM (R1)",
+    "product_price": "43.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KALA CHANA 500 GM (R1)",
+    "special_price": "41.5935",
+    "newPrice": "41.5935",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "168",
+    "product_name": "KALA CHANA 500 GM (R2)",
+    "product_price": "44.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "KALA CHANA 500 GM (R2)",
+    "special_price": "42.5607",
+    "newPrice": "42.5607",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "198",
+    "product_name": "MALKA MASOOR 1000 GM (R1)",
+    "product_price": "126.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MALKA MASOOR 1000 GM (R1)",
+    "special_price": "121.8785",
+    "newPrice": "121.8785",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "199",
+    "product_name": "MALKA MASOOR 1000 GM (R2)",
+    "product_price": "128.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MALKA MASOOR 1000 GM (R2)",
+    "special_price": "123.8131",
+    "newPrice": "123.8131",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "200",
+    "product_name": "MALKA MASOOR 500 GM (R1)",
+    "product_price": "64.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MALKA MASOOR 500 GM (R1)",
+    "special_price": "61.9065",
+    "newPrice": "61.9065",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "201",
+    "product_name": "MALKA MASOOR 500 GM (R2)",
+    "product_price": "65.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MALKA MASOOR 500 GM (R2)",
+    "special_price": "62.8738",
+    "newPrice": "62.8738",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "216",
+    "product_name": "MIX DAL 1000 GM (R1)",
+    "product_price": "120.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MIX DAL 1000 GM (R1)",
+    "special_price": "116.0748",
+    "newPrice": "116.0748",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "217",
+    "product_name": "MIX DAL 1000 GM (R2)",
+    "product_price": "122.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MIX DAL 1000 GM (R2)",
+    "special_price": "118.0093",
+    "newPrice": "118.0093",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "218",
+    "product_name": "MIX DAL 500 GM (R1)",
+    "product_price": "62.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MIX DAL 500 GM (R1)",
+    "special_price": "59.9720",
+    "newPrice": "59.9720",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "219",
+    "product_name": "MIX DAL 500 GM (R2)",
+    "product_price": "63.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MIX DAL 500 GM (R2)",
+    "special_price": "60.9393",
+    "newPrice": "60.9393",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "225",
+    "product_name": "MOONG CHILKA 1000 GM (R1)",
+    "product_price": "120.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG CHILKA 1000 GM (R1)",
+    "special_price": "116.0748",
+    "newPrice": "116.0748",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "226",
+    "product_name": "MOONG CHILKA 1000 GM (R2)",
+    "product_price": "122.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG CHILKA 1000 GM (R2)",
+    "special_price": "118.0093",
+    "newPrice": "118.0093",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "227",
+    "product_name": "MOONG CHILKA 500 GM (R1)",
+    "product_price": "61.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG CHILKA 500 GM (R1)",
+    "special_price": "59.0047",
+    "newPrice": "59.0047",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "228",
+    "product_name": "MOONG CHILKA 500 GM (R2)",
+    "product_price": "62.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG CHILKA 500 GM (R2)",
+    "special_price": "59.9720",
+    "newPrice": "59.9720",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "229",
+    "product_name": "MOONG DHULI 1000 GM (R1)",
+    "product_price": "134.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG DHULI 1000 GM (R1)",
+    "special_price": "129.6168",
+    "newPrice": "129.6168",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "230",
+    "product_name": "MOONG DHULI 1000 GM (R2)",
+    "product_price": "136.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG DHULI 1000 GM (R2)",
+    "special_price": "131.5514",
+    "newPrice": "131.5514",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "231",
+    "product_name": "MOONG DHULI 500 GM (R1)",
+    "product_price": "68.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG DHULI 500 GM (R1)",
+    "special_price": "65.7757",
+    "newPrice": "65.7757",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "232",
+    "product_name": "MOONG DHULI 500 GM (R2)",
+    "product_price": "69.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG DHULI 500 GM (R2)",
+    "special_price": "66.7430",
+    "newPrice": "66.7430",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "233",
+    "product_name": "MOONG SABUT 1000 GM (R1)",
+    "product_price": "120.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG SABUT 1000 GM (R1)",
+    "special_price": "116.0748",
+    "newPrice": "116.0748",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "234",
+    "product_name": "MOONG SABUT 1000 GM (R2)",
+    "product_price": "122.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG SABUT 1000 GM (R2)",
+    "special_price": "118.0093",
+    "newPrice": "118.0093",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "235",
+    "product_name": "MOONG SABUT 500 GM (R1)",
+    "product_price": "61.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG SABUT 500 GM (R1)",
+    "special_price": "59.0047",
+    "newPrice": "59.0047",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "236",
+    "product_name": "MOONG SABUT 500 GM (R2)",
+    "product_price": "62.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "MOONG SABUT 500 GM (R2)",
+    "special_price": "59.9720",
+    "newPrice": "59.9720",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "287",
+    "product_name": "RAJMA 1000 GM (R1)",
+    "product_price": "92.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "RAJMA 1000 GM (R1)",
+    "special_price": "88.9907",
+    "newPrice": "88.9907",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "288",
+    "product_name": "RAJMA 1000 GM (R2)",
+    "product_price": "94.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "RAJMA 1000 GM (R2)",
+    "special_price": "90.9252",
+    "newPrice": "90.9252",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "289",
+    "product_name": "RAJMA 500 GM (R1)",
+    "product_price": "47.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "RAJMA 500 GM (R1)",
+    "special_price": "45.4626",
+    "newPrice": "45.4626",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "290",
+    "product_name": "RAJMA 500 GM (R2)",
+    "product_price": "48.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "RAJMA 500 GM (R2)",
+    "special_price": "46.4299",
+    "newPrice": "46.4299",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "337",
+    "product_name": "TUVAR DAL 1000 GM (R1)",
+    "product_price": "180.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "TUVAR DAL 1000 GM (R1)",
+    "special_price": "174.1121",
+    "newPrice": "174.1121",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "338",
+    "product_name": "TUVAR DAL 1000 GM (R2)",
+    "product_price": "181.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "TUVAR DAL 1000 GM (R2)",
+    "special_price": "175.0794",
+    "newPrice": "175.0794",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "339",
+    "product_name": "TUVAR DAL 500 GM (R1)",
+    "product_price": "92.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "TUVAR DAL 500 GM (R1)",
+    "special_price": "88.9907",
+    "newPrice": "88.9907",
+    "cate_id": "5"
+  },
+  {
+    "product_id": "340",
+    "product_name": "TUVAR DAL 500 GM (R2)",
+    "product_price": "93.0000",
+    "product_image": "catalog/ProductImages/",
+    "product_sku": "TUVAR DAL 500 GM (R2)",
+    "special_price": "89.9579",
+    "newPrice": "89.9579",
+    "cate_id": "5"
+  }
+]

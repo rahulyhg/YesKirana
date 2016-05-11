@@ -1,0 +1,192 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:facebook="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.ukstechnology.yeskirana.activity.LoginActivity">
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/iv_login_with_fb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:visibility="gone" />
+
+    <include
+        android:layout_height="150dp"
+        android:layout_width="match_parent"
+        android:id="@+id/headerContainer"
+        layout="@layout/header"
+        android:paddingBottom="20dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/headerContainer">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="24dp"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/padding_medium">
+
+                <EditText
+                    android:id="@+id/email"
+                    style="@style/StyledView.EditText"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"/>
+
+                <EditText
+                    android:id="@+id/password"
+                    style="@style/StyledView.EditText"
+                    android:layout_width="match_parent"
+                    android:hint="password"
+                    android:inputType="textPassword" />
+
+                <Button
+                    android:id="@+id/login"
+                    style="@style/StyledView.Button.Red"
+                    android:layout_width="match_parent"
+                    android:text="@string/title_login" />
+
+                <TextView
+                    android:id="@+id/forgot_password"
+                    style="@style/StyledView.TextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:focusableInTouchMode="false"
+                    android:text="@string/text_forgot_password" />
+
+              <!--  <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:descendantFocusability="blocksDescendants"
+                    android:orientation="horizontal"
+                    android:weightSum="2">-->
+
+                    <!-- <FrameLayout
+                         android:id="@+id/facebook_login"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_weight="1"
+                         android:foreground="@drawable/button_wraper_background">
+
+                         <LinearLayout
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:layout_weight="1"
+                             android:orientation="horizontal"
+                             android:weightSum="1">
+
+                             <ImageButton
+                                 android:layout_width="48dp"
+                                 android:layout_height="match_parent"
+                                 android:layout_marginBottom="0dp"
+                                 android:layout_marginTop="0dp"
+                                 android:background="@drawable/fb_bg"
+                                 android:clickable="false"
+                                 android:padding="5dp"
+                                 android:src="@drawable/ic_action_facebook" />
+
+                             <TextView
+                                 style="@style/StyledView.Button.Gray"
+                                 android:layout_width="0dp"
+                                 android:layout_marginBottom="0dp"
+                                 android:layout_marginLeft="0dp"
+                                 android:layout_marginRight="0.5dp"
+                                 android:layout_marginTop="0dp"
+                                 android:layout_weight="1"
+                                 android:clickable="false"
+                                 android:duplicateParentState="false"
+                                 android:gravity="center"
+                                 android:singleLine="true"
+                                 android:text="@string/title_login_facebook" />
+                         </LinearLayout>
+                     </FrameLayout>
+
+                     <FrameLayout
+                         android:id="@+id/google_login"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_weight="1"
+                         android:clickable="true"
+                         android:descendantFocusability="blocksDescendants"
+                         android:foreground="@drawable/button_wraper_background">
+
+                         <LinearLayout
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:layout_weight="1"
+                             android:orientation="horizontal"
+                             android:weightSum="1">
+
+                             <TextView
+                                 style="@style/StyledView.Button.Gray"
+                                 android:layout_width="0dp"
+                                 android:layout_marginBottom="0dp"
+                                 android:layout_marginLeft="0.5dp"
+                                 android:layout_marginRight="0dp"
+                                 android:layout_marginTop="0dp"
+                                 android:layout_weight="1"
+                                 android:clickable="false"
+                                 android:duplicateParentState="false"
+                                 android:gravity="center"
+                                 android:singleLine="true"
+                                 android:text="@string/title_login_google" />
+
+                             <ImageButton
+                                 android:id="@+id/google_icon"
+                                 android:layout_width="48dp"
+                                 android:layout_height="match_parent"
+                                 android:layout_marginBottom="0dp"
+                                 android:layout_marginTop="0dp"
+                                 android:background="@drawable/gp_bg"
+                                 android:clickable="false"
+                                 android:padding="5dp"
+                                 android:src="@drawable/ic_action_google" />
+                         </LinearLayout>
+                     </FrameLayout>
+ -->
+
+                </LinearLayout>
+            </LinearLayout>
+      <!--  </LinearLayout>-->
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/pinkAnchorLine"
+        style="@style/StyledView.PinkLine"
+        android:layout_above="@id/footer" />
+
+    <TextView
+        android:id="@+id/footer"
+        style="@style/StyledView.TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:height="56dp"
+        android:descendantFocusability="blocksDescendants"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:paddingTop="0dp"
+        android:text="@string/text_new_user_sign_up" />
+
+</RelativeLayout>

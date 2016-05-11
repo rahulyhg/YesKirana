@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="com.imagingtz.yeskirana.activity.PickAnAddress">
+
+    <Button
+        android:id="@+id/addNewAddress"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#EEEEEE"
+        android:textColor="#282828"
+        android:text="Add New Address" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Continue"
+        android:background="@drawable/cst_btn"
+        android:textColor="#fff"
+        android:layout_alignParentBottom="true"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:id="@+id/tvAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addNewAddress"
+        android:text="Delivery Address" />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="5dp"
+        android:id="@+id/addressList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tvAddress"
+        android:layout_above="@id/next"
+        android:padding="5dp" />
+
+
+</RelativeLayout>

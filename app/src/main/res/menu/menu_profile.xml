@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.imagingtz.yeskirana.activity.ProfileActivity">
+
+    <item
+        android:id="@+id/myOrder"
+        android:orderInCategory="100"
+        android:title="My Order"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logOut"
+        android:orderInCategory="100"
+        android:title="Log out"
+        app:showAsAction="never" />
+</menu>

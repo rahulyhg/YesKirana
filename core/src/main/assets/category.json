@@ -1,0 +1,319 @@
+{
+  "category": [
+    {
+      "id": "0",
+      "name": "Home",
+      "subCategory": [
+
+      ]
+    },
+    {
+      "id": "0",
+      "name": "My Basket",
+      "subCategory": [
+
+      ]
+    },
+
+    {
+      "id": "1",
+      "name": "Fruits and Vegetables",
+      "subCategory": [
+        {
+          "id": "2",
+          "name": "Vegetables"
+        },
+        {
+          "id": "3",
+          "name": "Fruits"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Grocery and Staples",
+      "subCategory": [
+        {
+          "id": "5",
+          "name": "Dal and Pulses"
+        },
+        {
+          "id": "6",
+          "name": "Masala and Spices"
+        },
+        {
+          "id": "7",
+          "name": "Edible oil and Ghee"
+        },
+        {
+          "id": "8",
+          "name": "Flours"
+        },
+        {
+          "id": "9",
+          "name": "Dry Fruits"
+        },
+        {
+          "id": "10",
+          "name": "Salt, Sugar and Jaggery"
+        },
+        {
+          "id": "11",
+          "name": "Cereals"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Branded Foods",
+      "subCategory": [
+        {
+          "id": "13",
+          "name": "Biscuits"
+        },
+        {
+          "id": "14",
+          "name": "Sauces and Ketchup"
+        },
+        {
+          "id": "15",
+          "name": "Breakfast Cereals"
+        },
+        {
+          "id": "16",
+          "name": "Canned Food"
+        },
+        {
+          "id": "17",
+          "name": "Veg Snacks"
+        },
+        {
+          "id": "18",
+          "name": "Baking and Dessert Items"
+        },
+        {
+          "id": "19",
+          "name": "Noodles"
+        },
+        {
+          "id": "20",
+          "name": "Ready to Cook"
+        },
+        {
+          "id": "21",
+          "name": "Chocolates and Sweets"
+        },
+        {
+          "id": "22",
+          "name": "Pasta and Vermicilli"
+        },
+        {
+          "id": "23",
+          "name": "Jams and Spreads"
+        },
+        {
+          "id": "24",
+          "name": "Pickles"
+        },
+        {
+          "id": "25",
+          "name": "Baby Food"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Beverages",
+      "subCategory": [
+        {
+          "id": "27",
+          "name": "Fruit Drink And Juices"
+        },
+        {
+          "id": "28",
+          "name": "Mineral Water"
+        },
+        {
+          "id": "29",
+          "name": "Tea and Coffee"
+        },
+        {
+          "id": "30",
+          "name": "Soft Drinks"
+        },
+        {
+          "id": "31",
+          "name": "Energy and Health Drink"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Bread Dairy and Eggs",
+      "subCategory": [
+        {
+          "id": "33",
+          "name": "Dairy Products"
+        },
+        {
+          "id": "34",
+          "name": "Eggs"
+        },
+        {
+          "id": "35",
+          "name": "Bread and Bakery"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Personal Care",
+      "subCategory": [
+        {
+          "id": "37",
+          "name": "Skin care"
+        },
+        {
+          "id": "38",
+          "name": "Baby Care"
+        },
+        {
+          "id": "39",
+          "name": "Sanitary Needs"
+        },
+        {
+          "id": "40",
+          "name": "Hair Care"
+        },
+        {
+          "id": "41",
+          "name": "Cosmetics"
+        },
+        {
+          "id": "42",
+          "name": "Deos and Perfumes"
+        },
+        {
+          "id": "43",
+          "name": "First Aid+"
+        },
+        {
+          "id": "44",
+          "name": "Shaving Needs"
+        },
+        {
+          "id": "45",
+          "name": "Ayurvedic"
+        },
+        {
+          "id": "46",
+          "name": "Personal Hygiene"
+        },
+        {
+          "id": "47",
+          "name": "Oral Care"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Household",
+      "subCategory": [
+        {
+          "id": "49",
+          "name": "Cleaning Accessories"
+        },
+        {
+          "id": "50",
+          "name": "Repellents and Fresheners"
+        },
+        {
+          "id": "51",
+          "name": "Paper and Disposable"
+        },
+        {
+          "id": "52",
+          "name": "Cleaning Solutions"
+        },
+        {
+          "id": "53",
+          "name": "Electricals"
+        },
+        {
+          "id": "54",
+          "name": "Pooja Needs"
+        },
+        {
+          "id": "55",
+          "name": "Detergents"
+        },
+        {
+          "id": "56",
+          "name": "Kitchen Tool"
+        },
+        {
+          "id": "57",
+          "name": "Car Care"
+        },
+        {
+          "id": "58",
+          "name": "Utensil Cleaners"
+        },
+        {
+          "id": "59",
+          "name": "Pet Care"
+        },
+        {
+          "id": "60",
+          "name": "Kitchen and Dining"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Non Veg",
+      "subCategory": [
+        {
+          "id": "62",
+          "name": "Chicken"
+        },
+        {
+          "id": "63",
+          "name": "Mutton"
+        }
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Offers",
+      "subCategory": [
+        {
+          "id": "65",
+          "name": "Seasonal"
+        },
+        {
+          "id": "66",
+          "name": "Family Packs"
+        },
+        {
+          "id": "67",
+          "name": "Combo's"
+        },
+        {
+          "id": "68",
+          "name": "Regular"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Festival Special",
+      "subCategory": []
+    },
+    {
+      "id": "70",
+      "name": "New Arrivals",
+      "subCategory": []
+    }
+  ]
+}
